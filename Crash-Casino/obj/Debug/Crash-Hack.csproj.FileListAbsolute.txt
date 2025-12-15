@@ -1,0 +1,13 @@
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash-Hack.csproj.AssemblyReference.cache
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash_Hack.CrashGame.resources
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash_Hack.Login.resources
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash_Hack.Properties.Resources.resources
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash-Hack.csproj.GenerateResource.cache
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash-Hack.csproj.CoreCompileInputs.cache
+D:\GithubNew\6\Crash\Crash\Crash-Casino\bin\Debug\Crash-Hack.exe.config
+D:\GithubNew\6\Crash\Crash\Crash-Casino\bin\Debug\Crash-Hack.exe
+D:\GithubNew\6\Crash\Crash\Crash-Casino\bin\Debug\Crash-Hack.pdb
+D:\GithubNew\6\Crash\Crash\Crash-Casino\bin\Debug\Guna.UI2.dll
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash-Hack.csproj.Up2Date
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash-Hack.exe
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash-Hack.pdb
