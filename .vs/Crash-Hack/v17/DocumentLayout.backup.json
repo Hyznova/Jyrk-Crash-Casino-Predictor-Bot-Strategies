@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\6\\Crash\\Crash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C58FDC-FC18-46DB-8CFE-058A891FB254}|Crash-Casino\\Crash-Hack.csproj|d:\\githubnew\\6\\crash\\crash\\crash-casino\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26C58FDC-FC18-46DB-8CFE-058A891FB254}|Crash-Casino\\Crash-Hack.csproj|solutionrelative:crash-casino\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C58FDC-FC18-46DB-8CFE-058A891FB254}|Crash-Casino\\Crash-Hack.csproj|D:\\GithubNew\\6\\Crash\\Crash\\crash-casino\\stakeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C58FDC-FC18-46DB-8CFE-058A891FB254}|Crash-Casino\\Crash-Hack.csproj|solutionrelative:crash-casino\\stakeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C58FDC-FC18-46DB-8CFE-058A891FB254}|Crash-Casino\\Crash-Hack.csproj|D:\\GithubNew\\6\\Crash\\Crash\\crash-casino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C58FDC-FC18-46DB-8CFE-058A891FB254}|Crash-Casino\\Crash-Hack.csproj|solutionrelative:crash-casino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C58FDC-FC18-46DB-8CFE-058A891FB254}|Crash-Casino\\Crash-Hack.csproj|D:\\GithubNew\\6\\Crash\\Crash\\crash-casino\\crashgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26C58FDC-FC18-46DB-8CFE-058A891FB254}|Crash-Casino\\Crash-Hack.csproj|solutionrelative:crash-casino\\crashgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StakeAPI.cs",
+              "DocumentMoniker": "D:\\GithubNew\\6\\Crash\\Crash\\Crash-Casino\\StakeAPI.cs",
+              "RelativeDocumentMoniker": "Crash-Casino\\StakeAPI.cs",
+              "ToolTip": "D:\\GithubNew\\6\\Crash\\Crash\\Crash-Casino\\StakeAPI.cs",
+              "RelativeToolTip": "Crash-Casino\\StakeAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:57:35.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrashGame.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\6\\Crash\\Crash\\Crash-Casino\\CrashGame.cs",
+              "RelativeDocumentMoniker": "Crash-Casino\\CrashGame.cs",
+              "ToolTip": "D:\\GithubNew\\6\\Crash\\Crash\\Crash-Casino\\CrashGame.cs [Design]",
+              "RelativeToolTip": "Crash-Casino\\CrashGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:57:05.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\6\\Crash\\Crash\\Crash-Casino\\Login.cs",
+              "RelativeDocumentMoniker": "Crash-Casino\\Login.cs",
+              "ToolTip": "D:\\GithubNew\\6\\Crash\\Crash\\Crash-Casino\\Login.cs [Design]",
+              "RelativeToolTip": "Crash-Casino\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:57:03.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubNew\\6\\Crash\\Crash\\Crash-Casino\\Program.cs",
+              "RelativeDocumentMoniker": "Crash-Casino\\Program.cs",
+              "ToolTip": "D:\\GithubNew\\6\\Crash\\Crash\\Crash-Casino\\Program.cs",
+              "RelativeToolTip": "Crash-Casino\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:57:02.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
